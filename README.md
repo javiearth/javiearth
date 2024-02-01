@@ -1,9 +1,9 @@
 ### Hi there 👋
-You can  find me at:
-
-mastodon.social@javiearth
 
 I am a chemical engineer transitioning into the IT field, so you can expect some related content soon
+
+- 🌱 I’m currently learning Git, Github, HTML, CSS, SCSS, JavaDcript, React, Node.js and Rust
+ 
 <!--
 **javiearth/javiearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
