@@ -11,10 +11,11 @@ I'm a developer in training, focusing primarily on **Rust**, with a passion for 
 ## 🛠️ Featured Projects:
 🌟 I'll be sharing completed projects and practical examples of what I've learned here soon.
 
-## 📚 Blog and Portfolio
+## 📚 Blog and Portfolio (ongoing)
 
 
 ## 🐙 Find me elsewhere:
+🐘️ https://mastodon.social/@javiearth
 
 
 I'm open to collaboration and eager to learn from the community! 🚀
